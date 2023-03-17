@@ -1,4 +1,4 @@
-# DS-Jobs-Salaries
+# Insights in data science jobs
 
 ![imagen](https://user-images.githubusercontent.com/99104425/212561361-13d4e4df-4296-44a6-a833-bfc9323b9f41.png)
 
